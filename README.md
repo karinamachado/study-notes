@@ -1,2 +1,8 @@
-# study-notes
-This gitbook, my course notes, tutorials, books and articles related to front-end developer studies
+---
+description: >-
+  Esse gitbook , meu livro de anotações de cursos, tutoriais, livros, artigos
+  referente a linguagem JavaScript.
+---
+
+# JavaScript
+
