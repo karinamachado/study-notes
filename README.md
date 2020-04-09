@@ -12,7 +12,7 @@ Responsáveis por guardar dados na memória, onde podem ser armazenados valores 
   
 A diferença entre **var** e **let** tem a ver com escopo vou abordar mais na frente,  Já **const**, de constante, não pode ter o seu valor modificado depois que for atribuído uma vez, ao contrário do var e let que podem ser modificados a qualquer hora.
 
-Inicia com a palavra **var, let ou const**. Segue exemplo abaixo:
+ Ex: Sintaxe para declarar uma variável, pode iniciar com a palavra **var, let ou const**. 
 
 ```javascript
 var nome = 'Amanda';
