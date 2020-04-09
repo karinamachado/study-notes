@@ -36,3 +36,17 @@ var quantidade = 5;
 var precoTotal = preco * quantidade;
 ```
 
+## Sem Valor
+
+Pode declarar ela e não atribuir valor inicialmente.
+
+```javascript
+var precoCurso; // retorna undefined
+```
+
+
+
+
+
+
+
