@@ -6,9 +6,9 @@ description: >-
 
 # JavaScript
 
-Variáveis
+## **Variáveis**
 
 Responsáveis por guardar dados na memória.
 
-Inicia com a palavra var, let ou const.
+Inicia com a palavra **var, let ou const**.
 
