@@ -1,7 +1,7 @@
 ---
 description: >-
-  Esse gitbook , meu livro de anotações de cursos, tutoriais, livros, artigos
-  referente a linguagem JavaScript.
+  Esse gitbook é o meu caderno de estudos, resumo de conteúdo de cursos,
+  tutoriais, livros e artigos referente a linguagem JavaScript.
 ---
 
 # JavaScript
