@@ -14,7 +14,7 @@ A diferença entre **var** e **let** tem a ver com escopo e será discutido em a
 
 Inicia com a palavra **var, let ou const**. Segue exemplo abaixo:
 
-```text
+```javascript
 var nome = 'Amanda';
 let idade = 35;
 const membroComunidade = true;
