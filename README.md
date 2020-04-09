@@ -36,7 +36,7 @@ var quantidade = 5;
 var precoTotal = preco * quantidade;
 ```
 
-## Sem Valor
+### Sem Valor
 
 Pode declarar ela e não atribuir valor inicialmente.
 
