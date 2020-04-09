@@ -6,7 +6,7 @@ description: >-
 
 # JavaScript
 
-## **Variáveis**
+### **Variáveis**
 
 Responsáveis por guardar dados na memória, onde podem ser armazenados valores de diferentes tipos que podem ser números inteiros, reais, strings, booleanos, entre outros.  
   
@@ -18,5 +18,21 @@ Inicia com a palavra **var, let ou const**. Segue exemplo abaixo:
 var nome = 'Amanda';
 let idade = 35;
 const membroComunidade = true;
+```
+
+Você pode criar mais de uma variável, sem repetir a palavra chave var.
+
+```javascript
+var nome = 'Amanda',
+    idade = 35,
+    membroComunidade = true;
+```
+
+### **Evita Repetições**
+
+```javascript
+var preco = 20;
+var quantidade = 5;
+var precoTotal = preco * quantidade;
 ```
 
