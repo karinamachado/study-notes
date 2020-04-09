@@ -38,7 +38,7 @@ var precoTotal = preco * quantidade;
 
 ### Sem Valor
 
-Pode declarar sem atribuir nenhum.
+Pode declarar sem atribuir nenhum valor.
 
 ```javascript
 var precoCurso; // retorna undefined
