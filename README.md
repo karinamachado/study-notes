@@ -45,6 +45,12 @@ var nome = 'Amanda',
     membroComunidade = true;
 ```
 
+Vamos chamar essa variáveis no console do navegador para visualizar os valores.
+
+```javascript
+console.log(nome, idade);
+```
+
 ### **Evita Repetições**
 
 ```javascript
