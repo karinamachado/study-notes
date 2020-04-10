@@ -48,7 +48,7 @@ var nome = 'Amanda',
 Vamos chamar essa variáveis no console do navegador para visualizar os valores.
 
 ```javascript
-console.log(nome, idade);
+console.log(nome, idade, membroComunidade);
 ```
 
 ### **Evita Repetições**
