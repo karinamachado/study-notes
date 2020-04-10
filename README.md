@@ -47,6 +47,8 @@ var nome = 'Amanda',
 
 Vamos chamar essa variáveis no console do navegador para visualizar os valores.
 
+![](.gitbook/assets/captura-de-tela-2020-04-10-a-s-09.48.44%20%281%29.png)
+
 ```javascript
 console.log(nome, idade, membroComunidade);
 ```
