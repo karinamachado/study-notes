@@ -6,6 +6,23 @@ description: >-
 
 # JavaScript
 
+### Tipos de Dados
+
+O JavaScript tem seis tipos de dados primitivos:
+
+* **Boolean:** armazena dois valores, true \(verdadeiro\) ou false \(falso\).
+* **Number:** armazena números inteiros, decimais ou hexadecimais.
+* **String:** armazena texto. Pode estar entre aspas simples \(’ '\), asplas duplas \("" “”\) ou backticks \(\).
+* **Undefined:** quando não há nenhum valor atribuído.
+* **Null:** armazena um valor vazio.
+* **Symbol:** usado para realizar operações em objetos.
+
+    E um tipo de dado não primitivo:
+
+* **Object:** É um conjunto de chaves e valores
+
+
+
 ### **Variáveis**
 
 Responsáveis por guardar dados na memória, onde podem ser armazenados valores de diferentes tipos que podem ser números inteiros, reais, strings, booleanos, entre outros.  
