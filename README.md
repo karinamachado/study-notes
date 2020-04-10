@@ -12,16 +12,21 @@ O JavaScript tem seis tipos de dados primitivos:
 
 * **Boolean:** armazena dois valores, true \(verdadeiro\) ou false \(falso\).
 * **Number:** armazena números inteiros, decimais ou hexadecimais.
-* **String:** armazena texto. Pode estar entre aspas simples \(’ '\), asplas duplas \("" “”\) ou backticks \(\).
+* **String:** armazena texto. Pode estar entre aspas simples \(’ '\), asplas duplas \("" “”\) ou backticks  \(\` \`\), ou seja os acentos graves.
 * **Undefined:** quando não há nenhum valor atribuído.
 * **Null:** armazena um valor vazio.
 * **Symbol:** usado para realizar operações em objetos.
 
+**\*Obs**: _Sobre  os backticks: Implementando esse tipo de dados, permite fazer interpolação de strings que permite colocar uma variável dentro do backticks._
+
+```javascript
+var nome = 'Amanda';
+console.log( ` o nome da membro é: ${nome}`);
+```
+
     E um tipo de dado não primitivo:
 
 * **Object:** É um conjunto de chaves e valores
-
-
 
 ### **Variáveis**
 
