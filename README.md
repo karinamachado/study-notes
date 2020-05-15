@@ -12,7 +12,7 @@ O JavaScript foi criado para aplicações Front-End, onde faz a manipulacao do D
   
 _**Obs: JavaScript , não é Java.**_
 
-_**Sintaxe básica:**_
+**Sintaxe básica:**
 
 ```javascript
 const nome: "karina";
