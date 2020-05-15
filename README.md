@@ -41,6 +41,15 @@ O JavaScript tem seis tipos de dados primitivos:
 * **Null:** armazena um valor vazio.
 * **Symbol:** usado para realizar operações em objetos.
 
+```javascript
+var nome = 'Curso de JavaScript'; // String
+var idade = 28; // Number
+var alunoStart = true; // Boolean var time; // Undefined
+var comida = null; // Null
+var simbolo = Symbol() // Symbol
+var novoObjeto = {} // Object
+```
+
 **\*Obs**: _Sobre  os backticks: Implementando esse tipo de dados, permite fazer interpolação de strings que permite colocar uma variável dentro do backticks._
 
 ```javascript
