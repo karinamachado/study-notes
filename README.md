@@ -8,7 +8,9 @@ description: >-
 
 JavaScript é uma linguagem de programação interpretada, isso significa que você escreve o seu programa em um arquivo .js e abre esse arquivo em um navegador ou no node.js, ele automaticamente vai ser interpretado, diferente de uma linguagem compilada que primeiro tem que compilar o código para depois executar.\(ex\)  
   
-O JavaScript foi criado para aplicações Front-End, onde faz a manipulacao do DOM \(ex\) e comunicação assíncrona com o back-end. 
+O JavaScript foi criado para aplicações Front-End, onde faz a manipulacao do DOM \(ex\) e comunicação assíncrona com o back-end.   
+  
+_**Obs: JavaScript , não é Java.**_
 
 ### Tipos de Dados
 
