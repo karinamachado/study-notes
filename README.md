@@ -12,6 +12,20 @@ O JavaScript foi criado para aplicações Front-End, onde faz a manipulacao do D
   
 _**Obs: JavaScript , não é Java.**_
 
+_**Sintaxe básica:**_
+
+```javascript
+const nome: "karina";
+
+function somar(a, b) {
+    return a + b;
+}
+
+somar(2,4);
+
+//resultado 6
+```
+
 ### Tipos de Dados
 
 O JavaScript tem seis tipos de dados primitivos:
