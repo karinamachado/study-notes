@@ -57,7 +57,7 @@ var nome = 'Amanda';
 console.log( ` o nome da membro é: ${nome}`);
 ```
 
- Tipo de dado não primitivo:
+ Tipo de dado não primitivo:  tipo de dado imutável.
 
 * **Object:** É um conjunto de chaves e valores
 
