@@ -6,6 +6,8 @@ description: >-
 
 # JavaScript
 
+JavaScript é uma linguagem de programação interpretada, isso significa que você escreve o seu programa em um arquivo.js e abre esse arquivo em um navegador ou no node.js, ele automaticamente vai ser interpretado, diferente de uma linguagem compilada que primeirom tem que compilar o código.
+
 ### Tipos de Dados
 
 O JavaScript tem seis tipos de dados primitivos:
