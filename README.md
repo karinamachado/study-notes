@@ -28,6 +28,8 @@ somar(2,4);
 //resultado 6
 ```
 
+### **O que podemos fazer com JavaScript?**
+
 ### Tipos de Dados
 
 O JavaScript tem seis tipos de dados primitivos:
