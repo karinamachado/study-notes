@@ -8,9 +8,9 @@ description: >-
 
 ### **O que é JavaScript**
 
-JavaScript é uma linguagem de programação interpretada, isso significa que você escreve o seu programa em um arquivo .js e abre esse arquivo em um navegador ou no node.js, ele automaticamente vai ser interpretado, diferente de uma linguagem compilada que primeiro tem que compilar o código para depois executar.\(ex\)  
+JavaScript é uma linguagem de programação interpretada, isso significa que você escreve o seu programa em um arquivo .js e abre esse arquivo em um navegador ou no node.js, ele automaticamente vai ser interpretado, diferente de uma linguagem compilada que primeiro tem que compilar o código para depois executar.\(exemplo developer tools\).  
   
-O JavaScript foi criado para aplicações Front-End, onde faz a manipulacao do DOM \(ex\) e comunicação assíncrona com o back-end.   
+JavaScript está entre as linguagens de programação mais poderosas e flexíveis da web.  
   
 _**Obs: JavaScript , não é Java.**_
 
@@ -29,6 +29,12 @@ somar(2,4);
 ```
 
 ### **O que podemos fazer com JavaScript?**
+
+  
+****O JavaScript foi criado para aplicações Front-End, onde faz a manipulação do DOM e comunicação assíncrona com o back-end.   
+  
+A linguagem permite que  você desenvolva vários tipos de projetos, desde os mais simples e complexos como:   
+Games, Websites, Aplicações web 
 
 ### Tipos de Dados
 
