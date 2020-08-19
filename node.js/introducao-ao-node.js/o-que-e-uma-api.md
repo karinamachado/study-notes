@@ -8,3 +8,5 @@ Vamos examinar o exemplo de fazer uma compra online novamente, mas, desta vez, v
 
 Algumas APIs da web são abertas ao público. [O Instagram](https://www.instagram.com/developer/) , por exemplo, tem uma API que outros desenvolvedores podem usar para acessar alguns dos armazenamentos de dados do Instagram. Outros são usados ​​apenas pelo aplicativo da web internamente - Codecademy, por exemplo, tem uma API da web que os funcionários usam para realizar tarefas internas.
 
+![](../../.gitbook/assets/node_5v2__updated_1-1-.gif)
+
