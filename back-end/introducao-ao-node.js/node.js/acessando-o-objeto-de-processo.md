@@ -33,5 +33,7 @@ console.log(process.argv[3]); // Prints 'several'
 
 Cobrimos apenas algumas das propriedades do `process`objeto, portanto, certifique-se de verificar a [documentação do `process`objeto](https://nodejs.org/api/process.html) para aprender mais sobre ele e explorar alguns de seus outros métodos e propriedades.
 
+#### [https://gist.github.com/codecademydev/0f13a1ec1ea99d5c8e7060fa5eca3166](https://gist.github.com/codecademydev/0f13a1ec1ea99d5c8e7060fa5eca3166)
+
 Vamos praticar o uso do `process`objeto!
 
