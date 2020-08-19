@@ -1,20 +1,16 @@
 # The Node REPL
 
-LEARN NODE.JS
+APRENDA NODE.JS O Nó REPL REPL é uma abreviatura de loop read – eval – print. É um programa que efetua loops, ou ciclos repetidos, através de três estados diferentes: um estado de leitura onde o programa lê a entrada de um usuário, o estado de avaliação onde o programa avalia a entrada do usuário e o estado de impressão onde o programa imprime sua avaliação para um console. Em seguida, ele percorre esses estados novamente.
 
-**The Node REPL**
+Quando você instala o Node, ele vem com um REPL JavaScript integrado. Você pode acessar o REPL digitando o nó de comando \(sem nada depois dele\) no terminal e pressionando enter. Um caractere&gt; aparecerá no terminal indicando que o REPL está em execução e solicitando sua entrada. O Node REPL avaliará sua entrada linha por linha.
 
-[REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) is an abbreviation for **r**ead–**e**val–**p**rint **l**oop. It’s a program that **l**oops, or repeatedly cycles, through three different states: a **r**ead state where the program **r**eads input from a user, the **e**val state where the program **e**valuates the user’s input, and the **p**rint state where the program **p**rints out its evaluation to a console. Then it **l**oops through these states again.
+Por padrão, você indica que a entrada está pronta para avaliação quando você pressiona enter. Se desejar digitar várias linhas e, em seguida, avaliá-las de uma vez, você pode digitar .editor enquanto estiver no REPL. Uma vez no modo “editor”, você pode digitar CONTROLD quando estiver pronto para a entrada a ser avaliada. Cada sessão do REPL possui uma única memória compartilhada; você pode acessar quaisquer variáveis ​​ou funções que definir até sair do REPL.
 
-When you install Node, it comes with a built-in JavaScript REPL. You can access the REPL by typing the command `node` \(with nothing after it\) into the terminal and hitting enter. A `>` character will show up in the terminal indicating the REPL is running and prompting your input. The Node REPL will evaluate your input line by line.
+Um REPL pode ser extremamente útil para realizar cálculos, aprender uma linguagem e desenvolver código. É um lugar onde você pode explorar os recursos da linguagem e experimentar coisas enquanto recebe feedback imediato. Descobrir como fazer isso fora do navegador ou de um site pode ser muito estimulante.
 
-By default, you indicate the input is ready for eval when you hit enter. If you’d like to type multiple lines and then have them evaluated at once you can type `.editor` while in the REPL. Once in “editor” mode, you can type CONTROLD when you’re ready for the input to be evaluated. Each session of the REPL has a single shared memory; you can access any variables or functions you define until you exit the REPL.
+O ambiente do Node contém vários elementos globais específicos do Node, além daqueles integrados à linguagem JavaScript. Cada propriedade global específica do Node fica dentro do objeto global do Node. Este objeto contém várias propriedades e métodos úteis que estão disponíveis em qualquer lugar no ambiente do Node.
 
-A REPL can be extremely useful for performing calculations, learning a language, and developing code. It’s a place where you can explore language features and try things out while receiving immediate feedback. Figuring out how to do this outside of the browser or a website can be really empowering.
-
-The Node environment contains a number of Node-specific global elements in addition to those [built into the JavaScript language](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects). Every Node-specific global property sits inside the [the Node `global` object](https://nodejs.org/api/globals.html). This object contains a number of useful properties and methods that are available anywhere in the Node environment.
-
-Let’s try out the Node REPL. This will be a good way for you to explore the Node `global` object!
+Vamos experimentar o Node REPL. Esta será uma boa maneira de explorar o objeto global Node!
 
 #### Instructions
 
