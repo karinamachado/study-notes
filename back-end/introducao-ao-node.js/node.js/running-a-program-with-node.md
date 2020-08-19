@@ -12,3 +12,24 @@ Precisamos criar um arquivo com uma `.js`extensão. Chamaremos o nosso de **myPr
 
 #### [https://gist.github.com/codecademydev/d4c8f5c54a54c67ec1558f8d7633e79a](https://gist.github.com/codecademydev/d4c8f5c54a54c67ec1558f8d7633e79a)
 
+#### 
+
+```text
+// Inside myProgram.js
+console.log('Hello World');
+```
+
+Nosso código está completo! Agora, queremos executá-lo. **Abriremos** nosso terminal e navegaremos até o diretório que contém **myProgram.js** . Finalmente, digitaremos o comando `node myProgram.js`em nosso terminal.
+
+```text
+$ node myProgram.js
+```
+
+Os resultados do nosso programa serão impressos no terminal.
+
+```text
+Hello World
+```
+
+Vamos escrever um programa e executá-lo no Node.
+
