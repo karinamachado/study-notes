@@ -23,3 +23,5 @@ O conjunto de tecnologias usadas para criar o front-end e o back-end de um aplic
 
 Por exemplo, [a pilha MEAN](https://en.wikipedia.org/wiki/MEAN_%28software_bundle%29) é uma pilha de tecnologia para construir aplicativos da web que usa **M** ongoDB, **E** xpress.js, **A** ngularJS e **N** ode.js: MongoDB é usado como o banco de dados, Node.js com Express.js para o resto do back-end e o Angular é usado como uma estrutura de front-end. Enquanto a [Pilha LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29) , às vezes considerada a pilha arquetípica, usa **L** inux, **A** pache, **M** ySQL e **P** HP.
 
+![](../../.gitbook/assets/coders-2_updated_1.gif)
+
