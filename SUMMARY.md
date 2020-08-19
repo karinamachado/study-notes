@@ -11,4 +11,5 @@
   * [O que é uma API](node.js/introducao-ao-node.js/o-que-e-uma-api.md)
   * [O que é Back-End](node.js/introducao-ao-node.js/o-que-e-back-end.md)
   * [Autorização e Autenticação](node.js/introducao-ao-node.js/autorizacao-e-autenticacao.md)
+  * [Revisando](node.js/introducao-ao-node.js/revisando.md)
 
