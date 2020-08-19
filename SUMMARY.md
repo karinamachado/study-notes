@@ -14,4 +14,5 @@
   * [Revisando](back-end/introducao-ao-node.js/revisando.md)
   * [Node.js](back-end/introducao-ao-node.js/node.js/README.md)
     * [The Node REPL](back-end/introducao-ao-node.js/node.js/the-node-repl.md)
+    * [Running a Program with Node](back-end/introducao-ao-node.js/node.js/running-a-program-with-node.md)
 
